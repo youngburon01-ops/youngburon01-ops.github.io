@@ -26,8 +26,8 @@ My motto: If you don't go, you don't know.
 
 - <strong>J. Yang</strong>. Spring in Temi Class: Special Education in the Echoes of Poetry and Song
 
-- <strong>J. Yang</strong>. Opinion | Seeing More Diverse Individuals
+- <strong>J. Yang</strong>. Opinion: Seeing More Diverse Individuals
 
 - <strong>J. Yang</strong>. When Stand-Up Comedians Enter Middle Age
 
-- <strong>J. Yang</strong>. Documentary | Year After Year of Hardship: The Path to Self-Rescue for Publishing Houses
+- <strong>J. Yang</strong>. Documentary: Year After Year of Hardship: The Path to Self-Rescue for Publishing Houses
