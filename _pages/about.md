@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "First you believe, the you see."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,18 +16,18 @@ My Hobbies: Piano Playing, Swimming & Reading
 My motto: If you don't go, you don't know.
 
 #### Acdemic Works:
--Jiahao Yang. "Life and Death Fatigue" of Images: Media Critique and Real-World Concerns in Debray's Media Studies
+- <strong>Jiahao Yang. "Life and Death Fatigue" of Images: Media Critique and Real-World Concerns in Debray's Media Studies
 
--Jiahao Yang. The Impact of Internet Use on the Mental Health of the Elderly
+- <strong>Jiahao Yang. The Impact of Internet Use on the Mental Health of the Elderly
 
 #### Journalistic Works
 
-- <strong>J. Yang</strong>. [Dilemma on Black and White Keys: A Survival Report on Pianists in the Era of Competitions, Lineage, and Traffic].
+- <strong>J. Yang</strong>. Dilemma on Black and White Keys: A Survival Report on Pianists in the Era of Competitions, Lineage, and Traffic.
 
-- <strong>J. Yang</strong>. [Spring in Temi Class: Special Education in the Echoes of Poetry and Song]
+- <strong>J. Yang</strong>. Spring in Temi Class: Special Education in the Echoes of Poetry and Song
 
-- <strong>J. Yang</strong>. [Opinion | Seeing More Diverse Individuals]
+- <strong>J. Yang</strong>. Opinion | Seeing More Diverse Individuals
 
-- <strong>J. Yang</strong>. [When Stand-Up Comedians Enter Middle Age]
+- <strong>J. Yang</strong>. When Stand-Up Comedians Enter Middle Age
 
-- <strong>J. Yang</strong>. [Documentary | Year After Year of Hardship: The Path to Self-Rescue for Publishing Houses]
+- <strong>J. Yang</strong>. Documentary | Year After Year of Hardship: The Path to Self-Rescue for Publishing Houses
